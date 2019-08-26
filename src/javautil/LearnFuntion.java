@@ -1,6 +1,6 @@
 package javautil;
 
-import java.util.function.Function;
+        import java.util.function.Function;
 
 public class LearnFuntion {
   static void modifyTheValue(int valueToBeOperated, Function<Integer, String> function) {
